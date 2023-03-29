@@ -1,5 +1,3 @@
-version = 1.0.0
+version = 1.0.1
 Updates: 
- - This is the default version when the installer created. 
- - cache is implemented at last commit
- - At this point, TL, Boom, Drive, Power, Snag, TLS, Rope metrics were implemented. 
+ - Testing auto-update
